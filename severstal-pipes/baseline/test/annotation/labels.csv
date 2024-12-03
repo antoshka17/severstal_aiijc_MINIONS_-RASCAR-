@@ -1,0 +1,4 @@
+img_path;annot_path;pipe_class;pipe_count
+test/images/0/00001.jpg;test/annotation/semantic/00001.png;0;61
+test/images/0/00002.jpg;test/annotation/semantic/00002.png;0;30
+test/images/1/00003.jpg;test/annotation/semantic/00003.png;1;72

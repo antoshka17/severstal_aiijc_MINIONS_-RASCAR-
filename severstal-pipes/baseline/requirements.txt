@@ -1,0 +1,4 @@
+jupyter==1.0.0
+opencv-python==4.9.0.80
+matplotlib==3.9.0
+pandas==2.2.2

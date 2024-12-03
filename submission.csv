@@ -1,0 +1,7 @@
+img_name;annot_path;pipe_class;pipe_count
+severstal-pipes/test/1/IMG_2930.jpg;output_masks/IMG_2930.png;1;278
+severstal-pipes/test/1/IMG_2931.jpg;output_masks/IMG_2931.png;1;294
+severstal-pipes/test/0/IMG_2947.jpg;output_masks/IMG_2947.png;0;131
+severstal-pipes/test/0/IMG_2955.jpg;output_masks/IMG_2955.png;0;104
+severstal-pipes/test/0/IMG_2956.jpg;output_masks/IMG_2956.png;0;106
+severstal-pipes/test/1/IMG_2968.jpg;output_masks/IMG_2968.png;1;186

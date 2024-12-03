@@ -1,0 +1,4 @@
+img_path;annot_path;pipe_class;pipe_count
+test/images/0/00002.jpg;00002.png;0;45
+test/images/0/00001.jpg;00001.png;0;54
+test/images/1/00003.jpg;00003.png;1;71
